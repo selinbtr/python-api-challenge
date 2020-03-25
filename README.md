@@ -1,5 +1,5 @@
 Background:
-Weather Py: Prove "What's the weather like as we approach the equator?"
+Weather Py: Prove "What's the weather like as we approach the equator?" (Used Python requests, APIs, and JSON)
 Vacation Py: Working with weather data to plan future vacations. (Used jupyter-gmaps and the Google Places API)
 
 Weather Py - Conclusions:
