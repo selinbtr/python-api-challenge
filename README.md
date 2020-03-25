@@ -1,7 +1,6 @@
 Background:
-
-Weather Py: Prove "What's the weather like as we approach the equator?" (Used Python requests, APIs, and JSON)
-Vacation Py: Working with weather data to plan future vacations. (Used jupyter-gmaps and the Google Places API)
+1) Weather Py: Prove "What's the weather like as we approach the equator?" (Used Python requests, APIs, and JSON)
+2) Vacation Py: Working with weather data to plan future vacations. (Used jupyter-gmaps and the Google Places API)
 
 Weather Py - Conclusions:
 1) Max Temperature is higher as we approach the equator. 
